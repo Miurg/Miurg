@@ -1,0 +1,3 @@
+- Hi, I’m @Miurg
+- I’m interested in programming Backend, playing video games and struggling to live 
+- I’m currently learning Spring (and a little bit Yii2)
